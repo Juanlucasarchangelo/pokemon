@@ -1,0 +1,89 @@
+body{
+    background-image: url(imagens/Montasnhas.jpg);
+}
+.batalha{
+    text-align: center;
+    padding-top: 5%;
+    padding-block-end: 5%;
+    background-color: darkmagenta;
+    color: antiquewhite;
+}
+.resultado{
+    text-align: center;
+    font-size: 300%;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-block-end: 82px;
+    background-color: hotpink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ponyta{
+    background-color: brown;
+    float: left;
+    padding-block-end: 30px;
+    font-size: 125%;
+    text-align: center;
+}
+.escolha{
+    background-color: darkgoldenrod;
+    float: left;
+    padding-block-end: 63px;
+    font-size: 125%;
+    text-align: center;
+}
+  #logo{
+      position: relative;
+      left: 400px;
+  }
+  #ash{
+      position: absolute;
+      top: 0px;
+      right: 1030px;
+  }
+  #cara{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.champ{
+    text-align: center;
+}
+#box1{
+    background-color: yellow;
+    padding-right: 50%;
+}
+#box2{
+    background-color: orangered;
+    padding-right: 50%;
+}
+#box3{
+    background-color: purple;
+    padding-right: 50%;
+}
+#box4{
+    background-color: limegreen;
+    padding-right: 50%;
+}
+.personagens{
+    text-align: center;
+    background-color: mediumpurple;
+}
+.champ{
+    padding-left: 10%;
+    padding-right: 10%;    
+}
+.info{
+    float: right;
+    text-align: center;
+}
+h2{
+    color: gold;
+}
+footer{
+    text-align: center;
+    background-color: gold
+}
+.botao{
+    text-align: center;
+}
