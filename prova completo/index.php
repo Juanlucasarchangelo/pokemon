@@ -18,7 +18,7 @@
 				<img src="imagens/pokemon logo.png" class="text-center pt-5" width="300">
 			</div>
 			<div class="col-12 col-md-6 col-xl-6">
-				<H1 class="text-uppercase py-5 text-center text-white"> Escolha seu Pokemon</H1>
+				<H1 class="text-uppercase py-5 text-center text-white">Escolha seu Pokemon</H1>
 			</div>
 			<div class="col-12 col-md-6 col-xl-3">
 				<H1 class="text-uppercase py-5 text-center text-white"></H1>
